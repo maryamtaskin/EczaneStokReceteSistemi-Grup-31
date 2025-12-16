@@ -1,8 +1,5 @@
-# EczaneStokReceteSistemi-Grup 31
+# EczaneStokReceteSistemi-Grup-31
 
-test icin bir satir ekliyorum
+Bu proje Yazılım İnşası dersi kapsamında geliştirilmiştir.
 
-Bugun tekrar degisiklik yapildi.
-
-
-
+Proje Lideri: Maryam
