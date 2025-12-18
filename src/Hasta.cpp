@@ -1,8 +1,4 @@
 #include "Hasta.h"
-std::cout << "Hasta ID: " << hastaID
-          << " | Ad Soyad: " << ad << " " << soyad
-          << std::endl;
-
 
 Hasta::Hasta() {
     adSoyad = "";
